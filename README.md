@@ -51,6 +51,7 @@
 - [微信小程序怎么开发？玩物志一个上午搞定了电商应用](http://mp.weixin.qq.com/s?__biz=MzAxMDc1MjIyMw==&mid=2651666007&idx=1&sn=c2ae4bb8dfb9aa64d75909ef9dcd6135&scene=1&srcid=0923h46dV9JcGpmunxC2mjny#rd)
 - [微信团队：小程序的设计规范](http://mp.weixin.qq.com/s?__biz=MzIyNjA5MzgxNQ==&mid=2658936946&idx=3&sn=6e3299712771070c840136478f248419&chksm=f3fd37eac48abefc27bdd87ada4f9b3004eda7710f6c697aafb4513caeca16e5fc1e1616b4d7&scene=2&srcid=0923OuR5juNjERWgurjd5Ilq&from=timeline&isappinstalled=0#wechat_redirect)
 - [微信（小程序）尝鲜体验（【小程序】IDE + 破解 + Demo）并附上自己搞鼓的小demo。](https://zhuanlan.zhihu.com/p/22592649?refer=c_50258552)
+- [开发微信“小程序”必学教程](http://www.jianshu.com/p/923094b74a11)
 
 ## 知乎
 
@@ -101,7 +102,6 @@
 - [一篇文章读懂微信小程序(应用号)是什么？](http://www.jianshu.com/p/a256ea4a3d0e)
 - [关于微信小程序（应用号），这是三节课的全部看法和建议](http://blog.sanjieke.cn/article/1069984.html)
 - [昨晚我失眠了，因为微信要发布『应用号』了！](http://www.jianshu.com/p/798be8243bef)
-- [微信小程序，仅仅是 Web App 么？](http://t.cn/RcYowhy)
 - [翻遍“微信小程序”的所有知乎问答，我们整理了大家最关注几个话题](http://www.leiphone.com/news/201609/NVxG8kbeCsyEiPZH.html)
 - [没有情感寄托的微信小程序想替代APP等于天方夜谭](http://weibo.com/ttarticle/p/show?id=2309404022887072831594#related)
 - [小程序，大野心](http://weibo.com/ttarticle/p/show?id=2309404022668406964159#related)
@@ -111,7 +111,7 @@
 - [微信小程序事件始末及相关资料](http://www.jianshu.com/p/426ed4d8d1ae)
 - [微信应用号相关资料集合](http://www.jianshu.com/p/597de915ef68)
 - [从程序员的角度分析微信小程序](http://www.jianshu.com/p/56cfc2c602ae)
-- [微信小程序，一个有局限的类似 React Native 轮子！](http://www.jianshu.com/p/060c6f3dd4e8)
+- [作为移动开发程序员，你是否患有微信应用号“恐惧症”？](http://www.jianshu.com/p/a4ab5ad23694)
 
 ## 附注
 
