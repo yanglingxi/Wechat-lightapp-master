@@ -52,6 +52,7 @@
 - [微信团队：小程序的设计规范](http://mp.weixin.qq.com/s?__biz=MzIyNjA5MzgxNQ==&mid=2658936946&idx=3&sn=6e3299712771070c840136478f248419&chksm=f3fd37eac48abefc27bdd87ada4f9b3004eda7710f6c697aafb4513caeca16e5fc1e1616b4d7&scene=2&srcid=0923OuR5juNjERWgurjd5Ilq&from=timeline&isappinstalled=0#wechat_redirect)
 - [微信（小程序）尝鲜体验（【小程序】IDE + 破解 + Demo）并附上自己搞鼓的小demo。](https://zhuanlan.zhihu.com/p/22592649?refer=c_50258552)
 - [开发微信“小程序”必学教程](http://www.jianshu.com/p/923094b74a11)
+- [更新后出现40013问题解决办法 v0.9.092300](http://mp.weixin.qq.com/s?__biz=MzIzNTU5Mzg0OA==&mid=100000032&idx=1&sn=a532d0ab3a8c8a7d7dc3140c71d3d0c0&scene=1&srcid=0924G9GLbLYZ1CvIVr4i6fqR#rd)
 
 ## 知乎
 
@@ -109,8 +110,7 @@
 - [马佳佳：关于微信小程序我来说说：为什么不将浏览器和搜索引擎放在眼](http://weibo.com/ttarticle/p/show?id=2309404022813706089232#related)
 - [和开发者们聊了一圈，听听他们怎么看待「小程序」这件事](http://weibo.com/ttarticle/p/show?id=2309351000564022637369114703&u=3173539734&m=4022888527242173&cu=3173539734&ru=1735559201&rm=4022642144949248)
 - [微信小程序事件始末及相关资料](http://www.jianshu.com/p/426ed4d8d1ae)
-- [微信应用号相关资料集合](http://www.jianshu.com/p/597de915ef68)
-- [从程序员的角度分析微信小程序](http://www.jianshu.com/p/56cfc2c602ae)
+- [对微信小程序的一点个人看法](http://www.jianshu.com/p/5fe59f83ecc1)
 - [作为移动开发程序员，你是否患有微信应用号“恐惧症”？](http://www.jianshu.com/p/a4ab5ad23694)
 
 ## 附注
