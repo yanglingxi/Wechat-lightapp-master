@@ -34,6 +34,10 @@
 - [运营](http://wxopen.notedown.cn/product/)
 - [Q&A](http://wxopen.notedown.cn/qa/qa.html)
 
+## 情报前线
+
+- [揭秘：小程序后台长这样](http://www.jianshu.com/p/05795e500405)
+
 ## 教程
 
 - [博卡君-全球首个微信应用号开发教程系列（已更新到第三弹）](http://www.jianshu.com/users/0cbb7a420001/latest_articles)
