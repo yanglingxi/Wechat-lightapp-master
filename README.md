@@ -47,6 +47,10 @@
 - [全球首个微信应用号开发教程！通宵吐血赶稿，每日更新！](https://my.oschina.net/wwnick/blog/750055)
 - [微信小程序「官方示例代码」浅析【上】](https://zhuanlan.zhihu.com/p/22574282)
 - [微信小程序「官方示例代码」浅析【下】](https://zhuanlan.zhihu.com/p/22579053)
+- [Hello，小程序](http://www.helloxcx.com/)
+- [微信小程序怎么开发？玩物志一个上午搞定了电商应用](http://mp.weixin.qq.com/s?__biz=MzAxMDc1MjIyMw==&mid=2651666007&idx=1&sn=c2ae4bb8dfb9aa64d75909ef9dcd6135&scene=1&srcid=0923h46dV9JcGpmunxC2mjny#rd)
+- [微信团队：小程序的设计规范](http://mp.weixin.qq.com/s?__biz=MzIyNjA5MzgxNQ==&mid=2658936946&idx=3&sn=6e3299712771070c840136478f248419&chksm=f3fd37eac48abefc27bdd87ada4f9b3004eda7710f6c697aafb4513caeca16e5fc1e1616b4d7&scene=2&srcid=0923OuR5juNjERWgurjd5Ilq&from=timeline&isappinstalled=0#wechat_redirect)
+- [微信（小程序）尝鲜体验（【小程序】IDE + 破解 + Demo）并附上自己搞鼓的小demo。](https://zhuanlan.zhihu.com/p/22592649?refer=c_50258552)
 
 ## 知乎
 
@@ -77,6 +81,9 @@
 - [关于微信小程序，我联想到的几点](https://zi.com/w/a/b32fJp)
 - [你想做个怎样的微信小程序？](http://www.880917.com/wang/10850.html)
 - [微信小程序动了谁的蛋糕,又会把蛋糕分给谁?](http://it.sohu.com/20160922/n468981595.shtml)
+- [为什么微信深夜发布的“小程序”引动了开发者的大地震？](http://news.mydrivers.com/1/500/500547.htm)
+- [从“应用号”到“小程序”，微信的葫芦里卖着什么药？](https://www.huxiu.com/article/164639.html)
+- [微信“小程序”内部视频流出：原来是这么玩的（含视频）](http://news.mydrivers.com/1/500/500815.htm)
 
 ## 文章
 
@@ -90,6 +97,21 @@
 - [微信应用号「小程序」最全的Q&A列表](http://t.cn/RcYXD4Q)
 - [为什么要发布微信应用号](http://t.cn/RcYXsoP)
 - [微信小程序，仅仅是 Web App 么？](http://t.cn/RcYowhy)
+- [微信推出小程序（应用号），要颠覆 8 亿人的 App 使用习惯](http://www.ifanr.com/app/721343)
+- [一篇文章读懂微信小程序(应用号)是什么？](http://www.jianshu.com/p/a256ea4a3d0e)
+- [关于微信小程序（应用号），这是三节课的全部看法和建议](http://blog.sanjieke.cn/article/1069984.html)
+- [昨晚我失眠了，因为微信要发布『应用号』了！](http://www.jianshu.com/p/798be8243bef)
+- [微信小程序，仅仅是 Web App 么？](http://t.cn/RcYowhy)
+- [翻遍“微信小程序”的所有知乎问答，我们整理了大家最关注几个话题](http://www.leiphone.com/news/201609/NVxG8kbeCsyEiPZH.html)
+- [没有情感寄托的微信小程序想替代APP等于天方夜谭](http://weibo.com/ttarticle/p/show?id=2309404022887072831594#related)
+- [小程序，大野心](http://weibo.com/ttarticle/p/show?id=2309404022668406964159#related)
+- [关上App，一起猜想小程序](http://weibo.com/ttarticle/p/show?id=2309404022533715306167#related)
+- [马佳佳：关于微信小程序我来说说：为什么不将浏览器和搜索引擎放在眼](http://weibo.com/ttarticle/p/show?id=2309404022813706089232#related)
+- [和开发者们聊了一圈，听听他们怎么看待「小程序」这件事](http://weibo.com/ttarticle/p/show?id=2309351000564022637369114703&u=3173539734&m=4022888527242173&cu=3173539734&ru=1735559201&rm=4022642144949248)
+- [微信小程序事件始末及相关资料](http://www.jianshu.com/p/426ed4d8d1ae)
+- [微信应用号相关资料集合](http://www.jianshu.com/p/597de915ef68)
+- [从程序员的角度分析微信小程序](http://www.jianshu.com/p/56cfc2c602ae)
+- [微信小程序，一个有局限的类似 React Native 轮子！](http://www.jianshu.com/p/060c6f3dd4e8)
 
 ## 附注
 
